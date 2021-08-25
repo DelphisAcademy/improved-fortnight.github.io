@@ -1,0 +1,52 @@
+[{
+        "categoria": "Verbo 4",
+        "pregunta": "Han sido/Ha tenido ",
+        "respuesta": " They have been /He has had",
+        "incorrecta1": "They have being/He has had ",
+        "incorrecta2": "They has been/He has had",
+        "incorrecta3": "They were /He had",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Verbo 4",
+        "pregunta": " ¿Eran?/ ¿Tenían? ",
+        "respuesta": "Were they?/Did he have? ",
+        "incorrecta1": "Are they going to be ?/Is he going to has?",
+        "incorrecta2": "Will they being? /Will they have? ",
+        "incorrecta3": "Will they been ?/Will they have?",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+    }, {
+        "categoria": "Verbo 4  ",
+        "pregunta": " ¿Van a ser?/¿Va a tener? ",
+        "respuesta": "Are they going to be ?/Is he going to have?",
+        "incorrecta1": "Are they going to been? /Is he going to have ?",
+        "incorrecta2": "Will they be? /Will he have ",
+        "incorrecta3": "Are they going to being /Is he going to had",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Verbo 4 ",
+        "pregunta": " ¿Serán?/¿Tendrá?",
+        "respuesta": " Will they be?/Will he have?",
+        "incorrecta1": "Will they being ? /Will he have  ? ",
+        "incorrecta2": "Are they ?/Does he have ?",
+        "incorrecta3": "Would they be ? /Would he has? ",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+
+    },
+    {
+        "categoria": "Verbo 4",
+        "pregunta": "No son/No tiene  ",
+        "respuesta": "They aren't /He doesn't have ",
+        "incorrecta1": "They aren't/He hasn't has ",
+        "incorrecta2": " They aren't been/He isn't have",
+        "incorrecta3": "They isn't/He doesen't has ",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+    }
+]

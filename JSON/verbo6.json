@@ -1,0 +1,52 @@
+[{
+        "categoria": "Verbo 6",
+        "pregunta": "Estamos siendo/Estoy teniendo",
+        "respuesta": "We are being /I'm having",
+        "incorrecta1": "We are /I had ",
+        "incorrecta2": "We are been  /I am having",
+        "incorrecta3": "We are been /I having ",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Verbo 6",
+        "pregunta": " ¿Hemos sido?/¿He tenido?",
+        "respuesta": "Have we been?  /Have I had?",
+        "incorrecta1": "Have we being?/Have i had?",
+        "incorrecta2": "Were we ?/Did I have? ",
+        "incorrecta3": "Had we been? /Had I had?",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+    }, {
+        "categoria": "Verbo 6 ",
+        "pregunta": "Eramos /Tenía ",
+        "respuesta": "We were/I had",
+        "incorrecta1": "We was / I had",
+        "incorrecta2": "We were /I have ",
+        "incorrecta3": "We have been   /I have  had",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Verbo 6  ",
+        "pregunta": " ¿Seremos ?/¿Tendré?",
+        "respuesta": "Will we be ?/Will I have ? ",
+        "incorrecta1": "Are we going to be ? / Am I going to have ?  ",
+        "incorrecta2": "Am i going to be ?/Are we going to have ?",
+        "incorrecta3": "We will being?Will I have?",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+
+    },
+    {
+        "categoria": "Verbo 6",
+        "pregunta": "No vamos a ser /No voy a tener ",
+        "respuesta": "We aren't going to be /I'm not going to have ",
+        "incorrecta1": " We won't be   /I won't have   ",
+        "incorrecta2": "We aren't going to been/I am not going to have ",
+        "incorrecta3": "We aren't going to being/I am not going to have",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+    }
+]

@@ -1,0 +1,52 @@
+[{
+        "categoria": "Verbo 5",
+        "pregunta": "Soy /Tenemos ",
+        "respuesta": "I am  /We have",
+        "incorrecta1": "I am being/We're having",
+        "incorrecta2": "I am /We had",
+        "incorrecta3": "I am going to be  /We're going to have ",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Verbo 5 ",
+        "pregunta": " He sido/Tenemos",
+        "respuesta": "I have been /We have had",
+        "incorrecta1": "I have being/ We have had",
+        "incorrecta2": "I had been/We have had ",
+        "incorrecta3": "I have been/We had have",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+    }, {
+        "categoria": "Verbo 5  ",
+        "pregunta": "Era  /Teníamos ",
+        "respuesta": "I was/We had",
+        "incorrecta1": "I have been /We have had",
+        "incorrecta2": "I wasn't/We didn't have ",
+        "incorrecta3": "I was  /I had",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Verbo 5  ",
+        "pregunta": " ¿Seré ?/¿Tendremos?",
+        "respuesta": "Will I be?/Will we have ? ",
+        "incorrecta1": "Will a been? / Will we have?  ",
+        "incorrecta2": "Am i going to be ?/Are we going to have ?",
+        "incorrecta3": "Will i being/Will we have?",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+
+    },
+    {
+        "categoria": "Verbo 5",
+        "pregunta": "No voy a ser/No vamos a tener",
+        "respuesta": "I'm not going to be/We aren't going to have ",
+        "incorrecta1": " I won't be  /We won't have ? ",
+        "incorrecta2": "I'm not going to been  /We aren't going to have",
+        "incorrecta3": "I'm not going to being /We aren't going to have",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+    }
+]

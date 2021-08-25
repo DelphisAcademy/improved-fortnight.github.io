@@ -1,0 +1,56 @@
+[{
+    "categoria": "  Verbos ",
+    "pregunta": "¿Has sido?/¿Habeis tenido? ",
+    "respuesta": "Have you been?/Have you had?  ",
+    "incorrecta1": "Have you being?/Have you have ?",
+    "incorrecta2": "Have you been?/Had you have?",
+    "incorrecta3": "Were you?/Did you have? ",
+    "imagen": "/img/logo3.png",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Verbos ",
+    "pregunta": "No eras/No teníais ",
+    "respuesta": "You weren't /You didn't have ",
+    "incorrecta1": " You haven't been/You haven't had ",
+    "incorrecta2": "You won't be/You won't have",
+    "incorrecta3": "You were/You had ",
+    "imagen": "/img/logo3.png",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Verbos ",
+    "pregunta": "¿Has sido?/¿Habeis tenido? ",
+    "respuesta": "Have you been?/Have you had? ",
+    "incorrecta1": "Have you being?/Have you have ?",
+    "incorrecta2": "Have you been?/Had you have?",
+    "incorrecta3": "Were you?/Did you have? ",
+    "imagen": "/img/logo3.png",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Verbos ",
+    "pregunta": "Vas a ser /Vais a tener  ",
+    "respuesta": "You're going to be/You're going to have ",
+    "incorrecta1": "You will be /You will have ",
+    "incorrecta2": "You are /You have",
+    "incorrecta3": "You would be /You would have ",
+    "imagen": "/img/logo3.png",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Verbos ",
+    "pregunta": "¿Serás?/¿Tendréis?",
+    "respuesta": "Will you be? / Will you have? ",
+    "incorrecta1": "Are you going to be?/Are you going to have ?",
+    "incorrecta2": "Would you ?/Would you have?",
+    "incorrecta3": "Are you?/Do you have? ",
+    "imagen": "/img/logo3.png",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Verbos ",
+    "pregunta": "¿Eres ?/¿Tenéis ?",
+    "respuesta": "Are you ? / Do you have ? ",
+    "incorrecta1": "Are you going to be?/Are you going to have ?",
+    "incorrecta2": "Will you be ?/Will you have?",
+    "incorrecta3": "Would you be ?/Would you have? ",
+    "imagen": "/img/logo3.png",
+    "objectFit": "contain"
+}]

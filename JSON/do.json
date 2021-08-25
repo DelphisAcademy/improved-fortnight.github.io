@@ -1,0 +1,53 @@
+[{
+        "categoria": "To do",
+        "pregunta": "Estoy haciendo mis deberes",
+        "respuesta": "I'm doing my homework",
+        "incorrecta1": "I'm done my homework ",
+        "incorrecta2": "I 'm going to done my homework",
+        "incorrecta3": "I did my homework",
+        "imagen": "/img/Deberes.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To do ",
+        "pregunta": " He hecho un tour en París ",
+        "respuesta": "I have done a tour in Paris",
+        "incorrecta1": "I have did a tour in Paris ",
+        "incorrecta2": "I have do a tour in Paris ",
+        "incorrecta3": "I did a tour in Paris ",
+        "imagen": "/img/Efeil.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To do ",
+        "pregunta": "Hice un trabajo excelente ",
+        "respuesta": "I did an excelent job ",
+        "incorrecta1": "I have done an excelent job ",
+        "incorrecta2": "I do an excelent job ",
+        "incorrecta3": "I had done an excelent job ",
+        "imagen": "/img/Trabajo.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To do ",
+        "pregunta": "Haré la colada ",
+        "respuesta": "I will do the laundry",
+        "incorrecta1": "I'm going  to do the laundry",
+        "incorrecta2": "I will do the laundry ",
+        "incorrecta3": "I will done the laundry ",
+        "imagen": "/img/Lavadora.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To do",
+        "pregunta": "Voy a fregar los platos esta noche ",
+        "respuesta": "I'm going to do the dishes tonight",
+        "incorrecta1": "I'm going to done the dishes tonight",
+        "incorrecta2": "I will do the dishes tonight",
+        "incorrecta3": "I will done the dishes tonight",
+        "imagen": "/img/Lavar.jpg",
+        "objectFit": "cover"
+
+    }
+
+]

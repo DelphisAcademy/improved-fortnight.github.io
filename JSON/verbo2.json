@@ -1,0 +1,52 @@
+[{
+        "categoria": "Verbo 2",
+        "pregunta": "Estáis siendo/Estas teniendo ",
+        "respuesta": "You are being /You are having",
+        "incorrecta1": "You are/You have ",
+        "incorrecta2": "You're been/You are having",
+        "incorrecta3": "You're going to be /You are going to have ",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Verbo 2 ",
+        "pregunta": " No habéis sido/No has tenido",
+        "respuesta": "You haven't been/You haven't had",
+        "incorrecta1": "You haven't being/You haven't had",
+        "incorrecta2": "You haven't been /You haven't have ",
+        "incorrecta3": "Were you/Did you have",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+    }, {
+        "categoria": "Verbo 2  ",
+        "pregunta": "¿Vais a ser? /¿Vas a tener?",
+        "respuesta": "Are you going to be ?/Are you going to have?",
+        "incorrecta1": "Will you be ?/Will you have?",
+        "incorrecta2": "Are you?/Do you have? ",
+        "incorrecta3": "Would you be? /would you have?",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Verbo 2  ",
+        "pregunta": " ¿Erais ?/¿Tenías?",
+        "respuesta": "Were you ?/Did you have? ",
+        "incorrecta1": "Have you been have you had  ",
+        "incorrecta2": "Would you?/Did you have?",
+        "incorrecta3": "Were you/Do you have?",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+
+    },
+    {
+        "categoria": "Verbo 2",
+        "pregunta": "¿Sereis?/¿Tendrás?",
+        "respuesta": "Will you be ?/Will you have?",
+        "incorrecta1": " Are you going to be? /Are you going to have? ",
+        "incorrecta2": "Would you be? /Would you have?",
+        "incorrecta3": "Are you? /Do you have ?",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+    }
+]

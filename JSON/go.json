@@ -1,0 +1,53 @@
+[{
+        "categoria": "To go  ",
+        "pregunta": "Está yendo a trabajar",
+        "respuesta": "He's going to work",
+        "incorrecta1": "He has going to work  ",
+        "incorrecta2": "He will go to work ",
+        "incorrecta3": "He's going to go to work",
+        "imagen": "/img/trabajar.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "To go ",
+        "pregunta": "Ya ha ido al supermercado ",
+        "respuesta": "He has already gone to the supermarket",
+        "incorrecta1": "He's already gone to the supermarket ",
+
+        "incorrecta2": "He would already gone to the supermarket",
+        "incorrecta3": "He went already to the supermarket",
+        "imagen": "/img/tiendo.jpg",
+        "objectFit": "cover"
+    }, {
+        "categoria": "To go ",
+        "pregunta": "Fue a la playa hace un mes ",
+        "respuesta": "He went to the beach a month ago",
+        "incorrecta1": "He has gone to the beach a month ago",
+        "incorrecta2": " He has go to the beach a month ago",
+        "incorrecta3": "He gone to the beach a month ago",
+        "imagen": "/img/playa.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "To go ",
+        "pregunta": "Irá a las montañas la semana que viene ",
+        "respuesta": "He will go to the mountains  next week",
+        "incorrecta1": " He's going to go to the mountains next week",
+        "incorrecta2": "He will gone to the mountains next week ",
+        "incorrecta3": "He will going to the mountains next week",
+        "imagen": "/img/Montaña.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "To go ",
+        "pregunta": "Va a ir al cine otra vez ",
+        "respuesta": "He's going to go to the cinema  again",
+        "incorrecta1": "He will go to the cinema again",
+        "incorrecta2": "He goes to the cinema  again",
+        "incorrecta3": "He's going to gone to the cinema again",
+        "imagen": "/img/Cine.jpg",
+        "objectFit": "cover"
+    }
+]
